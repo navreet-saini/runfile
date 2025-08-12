@@ -8,7 +8,7 @@ st.header("Welcome to *My Hospital*.")
 st.subheader("Select a page to explore our services.")
 
 # Load the image using PIL
-image = Image.open("C:/Users/hp/Desktop/hospital2//images/hospital.jpeg")
+image = Image.open("C:/Users/hp/Desktop/hospital//images/hospital.jpeg")
 
 # Display the image in Streamlit
 st.image(image)
